@@ -1,0 +1,23 @@
+
+.row{padding: 10px 10px 20px 0}
+.btn{
+    color:#fff;
+    background-color: #012df5;
+    border-color: #012df5;
+    margin-bottom: 50px;
+}
+.contact
+{
+    width: 100%;
+    max-width: 1200px;
+    align-items: center;
+    justify-content: center;
+    padding: 0 20px;
+}
+.card
+{
+    
+    background-color: #2f3542;
+    padding: 0 20px;
+    margin: 0 10px;
+}
