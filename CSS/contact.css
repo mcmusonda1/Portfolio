@@ -8,7 +8,7 @@ body
     background-size: cover;
 
 }
-.container{
+.register{
     background-color: rgba(0, 0, 0, 0.75);
     color: white;
     text-align: center;
@@ -16,8 +16,7 @@ body
 .row{padding: 10px 10px 20px 0}
 .btn{
     color:#fff;
-    background-color: dark;
-    border-color: #012df5;
+    border-color: darkslategray;
     margin-bottom: 50px;
 }
 .contact
