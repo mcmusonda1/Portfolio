@@ -1,0 +1,27 @@
+.open
+{
+	background-image: url(../Media/Images/13.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 450px;
+}
+.services
+{
+    padding: 50px 0 50px;
+    text-align: center;
+ }
+.row h2,
+.row h4
+{
+    color: #4c4c4c;
+    margin: 20px 0 20px;
+    font-weight: bold;
+    
+}
+.row p{
+    color: #737373;
+    font-size: 14px;
+    padding-bottom: 40px;
+}
+
