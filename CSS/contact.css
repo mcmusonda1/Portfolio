@@ -16,7 +16,8 @@ body
 .row{padding: 10px 10px 20px 0}
 .btn{
     color:#fff;
-    border-color: darkslategray;
+    border-color: #211a30;
+    background-color: #211a30;
     margin-bottom: 50px;
 }
 .contact
@@ -31,7 +32,7 @@ body
 .card
 {
     
-    
+    background-color: #211a30;
     padding: 0 20px;
     margin: 0 10px;
     height: 150px;
