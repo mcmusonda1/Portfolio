@@ -20,4 +20,43 @@
     background-color: #2f3542;
     padding: 0 20px;
     margin: 0 10px;
+    height: 200px;
+    justify-content: center;
+    color: #fff;
+}
+.card a
+{
+    color: #fff;
+}
+.card-icon
+{
+    font-size: 28px;
+    background: #ff6348;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px !important;
+    border-radius: 50%;
+    transition: 0.3s linear;
+    
+}
+.card:hover .card-icon
+{
+    background: none;
+    color: #ff6348;
+    transform: scale(1.6);
+}
+.card p
+{
+    margin-top: 20px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    max-height: 0;
+    opacity: 0;
+    transition: 0.3s linear;
+}
+.card:hover p
+{
+    max-height: 40px;
+    opacity: 1;
 }
